@@ -627,46 +627,6 @@
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
-	CB8F983C120E86E000DD0604 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CB529BBE0F32B7ED00564FB8 /* AppController.m */;
-		name = "AppController.m: 236";
-		rLen = 0;
-		rLoc = 9651;
-		rType = 0;
-		vrLen = 1485;
-		vrLoc = 3951;
-	};
-	CB8F983D120E86E000DD0604 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CBEE50C00F48C21F00F5DF1C /* TimerWindowController.m */;
-		name = "TimerWindowController.m: 137";
-		rLen = 18;
-		rLoc = 4720;
-		rType = 0;
-		vrLen = 1349;
-		vrLoc = 4257;
-	};
-	CB8F9863120F77DA00DD0604 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CB529BBE0F32B7ED00564FB8 /* AppController.m */;
-		name = "AppController.m: 784";
-		rLen = 0;
-		rLoc = 30103;
-		rType = 0;
-		vrLen = 987;
-		vrLoc = 31749;
-	};
-	CB8F9864120F77DA00DD0604 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CBEE50C00F48C21F00F5DF1C /* TimerWindowController.m */;
-		name = "TimerWindowController.m: 137";
-		rLen = 18;
-		rLoc = 4720;
-		rType = 0;
-		vrLen = 1349;
-		vrLoc = 4257;
-	};
 	CB90BF810F49F430006D202D /* HostImporter.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1018, 624}}";
